@@ -28,7 +28,7 @@ I built the app AI-driven with automation in mind: it was designed to be testabl
 OWASP Juice Shop, split on purpose: the UI covers what only the UI can show, business rules and contracts live in the API tests.
 
 - 25 UI tests (Playwright + Gherkin) and 35 API tests (REST Assured)
-- Every test creates its own user through the API; the main responses are checked against JSON schemas
+- Tests that change data create their own user through the API; the main responses are checked against JSON schemas
 - Juice Shop's built-in bugs are kept as 13 tests of the correct behavior, run in a separate CI pass that flags any that get fixed
 - Accessibility scanned with axe against WCAG 2.1 AA
 
@@ -40,7 +40,7 @@ OWASP Juice Shop, split on purpose: the UI covers what only the UI can show, bus
 **API:** REST Assured, JUnit, Postman, Bruno<br>
 **CI/CD:** GitHub Actions, Azure DevOps, Docker<br>
 **AI in QA:** Claude Code (custom skills), GitHub Copilot, Playwright MCP<br>
-**Languages:** TypeScript, JavaScript, Java, SQL
+**Languages:** JavaScript, Java, SQL
 
 ## Contact
 
