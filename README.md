@@ -46,4 +46,4 @@ OWASP Juice Shop, split on purpose: the UI covers what only the UI can show, bus
 
 Open to remote Senior QA Engineer, QA Automation and SDET roles, from Porto Alegre, Brazil (UTC-3), with US and European time-zone overlap. ISTQB CTFL, English C2.
 
-[LinkedIn](https://www.linkedin.com/in/vedovatto) · [ed.vedovatto@gmail.com](mailto:ed.vedovatto@gmail.com)
+[edvedovatto.github.io](https://edvedovatto.github.io) · [LinkedIn](https://www.linkedin.com/in/vedovatto) · [ed.vedovatto@gmail.com](mailto:ed.vedovatto@gmail.com)
