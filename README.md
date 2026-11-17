@@ -1,12 +1,12 @@
 <img src="banner.png" alt="Eduardo Vedovatto - Senior QA Engineer, test automation" width="100%">
 
-I'm a Senior QA Engineer with 10 years in QA across fintech, payments and automotive. I automate web and API tests wired into CI, and I use AI tools in day-to-day QA work, reviewing everything they produce.
+I'm a Senior QA Engineer with 10+ years in QA across fintech, payments and automotive. I automate web and API tests wired into CI, and I use AI tools in day-to-day QA work, reviewing everything they produce.
 
 ## Recent work
 
 - **Trustly** - built QA tools with Claude Code and GitHub Copilot, including Jira-based shift-left monitoring. After finding that about 84% of the documentation hadn't been updated in over two years, built a tool that suggests updates with each delivery.
-- **GOW** - built test automation from scratch with Playwright, Postman and CI/CD on projects that included a US fintech, using Playwright MCP to map flows and reviewing all AI output before adopting it.
-- **Zallpy Digital** - led a team of 5 QAs and cut test-data preparation time by about 70% with test data generated through the API.
+- **GOW** - built test automation from scratch with Playwright (Page Object) and CI/CD on Azure DevOps across several projects, including a US fintech; APIs with Java + REST Assured or Postman, depending on the project; used Playwright MCP to map flows, reviewing all AI output.
+- **Zallpy Digital** - cut test-data preparation time by about 70% by generating test data through the API, introduced a Definition of Done and systematic defect analysis, and also led the project's QA team of five.
 
 Most of my work sits in client codebases I can't share, so I built two public projects to show how I test.
 
